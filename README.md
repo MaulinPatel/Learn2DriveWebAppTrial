@@ -32,4 +32,4 @@ Design View of Table : appointment
 ![](designview_appointment.png)
 
 Design View of Table : my_lesson
-
+![](designview.my_lesson.png)
