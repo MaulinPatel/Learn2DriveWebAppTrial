@@ -13,12 +13,12 @@ OOP in MVC application :
 
 Encapsulation : Encapsulation is a component of restricting the information part and part work into a solitary unit known as class.                     Encapsulation gives an approach to reflection. In OOP the embodiment is fundamentally accomplished by making                             classes, the classes uncover open strategies and properties. The class is somewhat of a compartment or case or a                         cell, which embody the arrangement of strategies, credit and properties to give its indented functionalities to                         different classes.
 
-                We have created our objects in such a way that they are combined very well and various tasks cxan be performed with                     ease.
-                Use of getr() & setr() in model.
+We have created our objects in such a way that they are combined very well and various tasks can be performed with                     ease.
+Use of getr() & setr() in model.
                 
 Abstraction   : Data abstraction is a component to give the fundamental highlights without depicting the foundation subtleties. Means                   give the capacities to get to the concealed information. 
 
-                The significance of abstraction is gotten from its capacity to conceal immaterial subtleties and from the utilization of                 names to reference objects. Reflection is fundamental in the development of projects. It puts the accentuation on what                   an article is or does instead of how it is spoken to or how it functions. In this manner, it is the essential methods                   for overseeing multifaceted nature in huge projects.
+The significance of abstraction is gotten from its capacity to conceal immaterial subtleties and from the utilization of                 names to reference objects. Reflection is fundamental in the development of projects. It puts the accentuation on what                   an article is or does instead of how it is spoken to or how it functions. In this manner, it is the essential methods                   for overseeing multifaceted nature in huge projects.
                 
 Polymophism :  Polymorphism implies one thing in many structure. Essentially polymorphism is ability of one item to carry on in various                manners.In object-situated programming worldview, polymorphism is regularly communicated as 'one interface, various                      capacities'. Polymorphism can be static or dynamic. In static polymorphism, the reaction to a capacity is resolved at the                assemble time. In unique polymorphism, it is chosen at run-time.
 
